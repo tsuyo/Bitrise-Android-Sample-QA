@@ -1,6 +1,6 @@
 # Bitrise Android Sample
 
-[![Bitrise status](https://app.bitrise.io/app/fe11f006b6b4b645/status.svg?token=yK2yNkjl5vLBro_16QsL8w&branch=main)](https://app.bitrise.io/app/fe11f006b6b4b645)
+[![Bitrise status](https://app.bitrise.io/app/044e227ca7187314/status.svg?token=Uz0hs2VvIk1-traq34ABNQ&branch=main)](https://app.bitrise.io/app/044e227ca7187314)
 
 This is a sample Android project that demonstrates a typical [Bitrise](https://bitrise.io) CI/CD setup. Build history is publicly available [here](https://app.bitrise.io/app/fe11f006b6b4b645/builds).
 
